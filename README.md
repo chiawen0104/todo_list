@@ -1,8 +1,8 @@
 # Todo List
-Todo List allows users to add and manage their tasks. This app is created from homework3 of web programming course so that desination of user-interface is a reference to the homework.
+Todo List is an web app created by react.js which allow users to add and manage their tasks. This app is modified from homework3 of web programming course so that design of user-interface is a reference to this homework.
 
 ## Start the app
-In the project directory, you can use the following commands:
+In the project directory, you can use the following commands to open the app.
 ```
 yarn install
 ```
@@ -18,5 +18,5 @@ yarn start
 - Click 'Clear completed' to delete all completed tasks.
 - Allow user to see the number of active tasks.
 
-## Reference
+## Reference: homework3 of web programming
 [Demo video of web programming hw3](https://www.youtube.com/watch?v=Zf1PQAP9uuM). You can also get the homework documents and css files in 'todo_list/ref'.
