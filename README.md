@@ -19,4 +19,4 @@ yarn start
 - Allow user to see the number of active tasks.
 
 ## Reference: homework3 of web programming
-[Demo video of web programming hw3](https://www.youtube.com/watch?v=Zf1PQAP9uuM). You can also get the homework documents and css files in 'todo_list/ref'.
+[Demo video of web programming hw3](https://www.youtube.com/watch?v=Zf1PQAP9uuM). You can also get the homework document(hw3.pdf) and css files(styles.css) in 'todo_list/ref'.
